@@ -1,0 +1,14 @@
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\bin\Debug\net8.0\CursoDeCSharp.exe
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\bin\Debug\net8.0\CursoDeCSharp.deps.json
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\bin\Debug\net8.0\CursoDeCSharp.runtimeconfig.json
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\bin\Debug\net8.0\CursoDeCSharp.dll
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\bin\Debug\net8.0\CursoDeCSharp.pdb
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\CursoDeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\CursoDeCSharp.AssemblyInfoInputs.cache
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\CursoDeCSharp.AssemblyInfo.cs
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\CursoDeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\CursoDeCSharp.dll
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\refint\CursoDeCSharp.dll
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\CursoDeCSharp.pdb
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\CursoDeCSharp.genruntimeconfig.cache
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\ref\CursoDeCSharp.dll
