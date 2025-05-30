@@ -12,3 +12,4 @@ C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSh
 C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\CursoDeCSharp.pdb
 C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\CursoDeCSharp.genruntimeconfig.cache
 C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\ref\CursoDeCSharp.dll
+C:\Users\SIDIM41\Documents\MeusProjetos\Curso-de-CSharp\CursoDeCSharp\CursoDeCSharp\obj\Debug\net8.0\CursoDeCSharp.sourcelink.json
