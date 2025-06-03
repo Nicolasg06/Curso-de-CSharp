@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\fundamentos\\variaveseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\fundamentos\\variaveseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\fundamentos\\comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\fundamentos\\comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\fundamentos\\variaveseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\fundamentos\\variaveseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VariavesEConstantes.cs",
               "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\VariavesEConstantes.cs",
               "RelativeDocumentMoniker": "CursoDeCSharp\\Fundamentos\\VariavesEConstantes.cs",
               "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\VariavesEConstantes.cs",
               "RelativeToolTip": "CursoDeCSharp\\Fundamentos\\VariavesEConstantes.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvzMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T17:26:19.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T17:26:19.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Program.cs",
               "RelativeDocumentMoniker": "CursoDeCSharp\\Program.cs",
@@ -52,32 +43,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T13:30:41.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Comentarios.cs",
-              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\Comentarios.cs",
-              "RelativeDocumentMoniker": "CursoDeCSharp\\Fundamentos\\Comentarios.cs",
-              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\Comentarios.cs",
-              "RelativeToolTip": "CursoDeCSharp\\Fundamentos\\Comentarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T14:53:27.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PrimeiroPrograma.cs",
-              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\PrimeiroPrograma.cs",
-              "RelativeDocumentMoniker": "CursoDeCSharp\\Fundamentos\\PrimeiroPrograma.cs",
-              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\PrimeiroPrograma.cs",
-              "RelativeToolTip": "CursoDeCSharp\\Fundamentos\\PrimeiroPrograma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T13:37:58.635Z",
               "EditorCaption": ""
             }
           ]
