@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\fundamentos\\operadorternario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\fundamentos\\operadorternario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\estruturaswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\estruturaswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\fundamentos\\operadoresunarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\fundamentos\\operadoresunarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\estruturaifelseif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\estruturaifelseif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\fundamentos\\operadoresatribuicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\fundamentos\\operadoresatribuicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\estruturaifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\estruturaifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\fundamentos\\operadoreslogicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\fundamentos\\operadoreslogicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\fundamentos\\operadoresrelacionais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\fundamentos\\operadoresrelacionais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\fundamentos\\lendodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\fundamentos\\lendodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\estruturaif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\estruturaif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +40,7 @@
               "RelativeDocumentMoniker": "CursoDeCSharp\\Program.cs",
               "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Program.cs",
               "RelativeToolTip": "CursoDeCSharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T12:44:32.59Z",
               "IsPinned": true,
@@ -57,79 +49,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OperadorTernario.cs",
-              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\OperadorTernario.cs",
-              "RelativeDocumentMoniker": "CursoDeCSharp\\Fundamentos\\OperadorTernario.cs",
-              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\OperadorTernario.cs",
-              "RelativeToolTip": "CursoDeCSharp\\Fundamentos\\OperadorTernario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Title": "EstruturaSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaSwitch.cs",
+              "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaSwitch.cs",
+              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaSwitch.cs",
+              "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaSwitch.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T20:09:09.045Z",
+              "WhenOpened": "2025-06-05T18:48:17.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OperadoresUnarios.cs",
-              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\OperadoresUnarios.cs",
-              "RelativeDocumentMoniker": "CursoDeCSharp\\Fundamentos\\OperadoresUnarios.cs",
-              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\OperadoresUnarios.cs",
-              "RelativeToolTip": "CursoDeCSharp\\Fundamentos\\OperadoresUnarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Title": "EstruturaIfElseIf.cs",
+              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElseIf.cs",
+              "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElseIf.cs",
+              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElseIf.cs",
+              "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElseIf.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T19:33:47.689Z",
+              "WhenOpened": "2025-06-05T18:22:56.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OperadoresAtribuicao.cs",
-              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\OperadoresAtribuicao.cs",
-              "RelativeDocumentMoniker": "CursoDeCSharp\\Fundamentos\\OperadoresAtribuicao.cs",
-              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\OperadoresAtribuicao.cs",
-              "RelativeToolTip": "CursoDeCSharp\\Fundamentos\\OperadoresAtribuicao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "EstruturaIfElse.cs",
+              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElse.cs",
+              "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElse.cs",
+              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElse.cs",
+              "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T18:44:33.299Z",
+              "WhenOpened": "2025-06-05T17:32:30.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "OperadoresLogicos.cs",
-              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\OperadoresLogicos.cs",
-              "RelativeDocumentMoniker": "CursoDeCSharp\\Fundamentos\\OperadoresLogicos.cs",
-              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\OperadoresLogicos.cs",
-              "RelativeToolTip": "CursoDeCSharp\\Fundamentos\\OperadoresLogicos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Title": "EstruturaIf.cs",
+              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaIf.cs",
+              "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIf.cs",
+              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaIf.cs",
+              "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:51:02.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LendoDados.cs",
-              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\LendoDados.cs",
-              "RelativeDocumentMoniker": "CursoDeCSharp\\Fundamentos\\LendoDados.cs",
-              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\LendoDados.cs",
-              "RelativeToolTip": "CursoDeCSharp\\Fundamentos\\LendoDados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:39:14.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OperadoresRelacionais.cs",
-              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\OperadoresRelacionais.cs",
-              "RelativeDocumentMoniker": "CursoDeCSharp\\Fundamentos\\OperadoresRelacionais.cs",
-              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Fundamentos\\OperadoresRelacionais.cs",
-              "RelativeToolTip": "CursoDeCSharp\\Fundamentos\\OperadoresRelacionais.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:15:15.379Z",
+              "WhenOpened": "2025-06-05T13:30:24.328Z",
               "EditorCaption": ""
             }
           ]

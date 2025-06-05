@@ -17,4 +17,3 @@ namespace CursoDeCSharp.Fundamentos
         }
     }
 }
-s
