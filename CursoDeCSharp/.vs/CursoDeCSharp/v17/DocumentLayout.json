@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\estruturaswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\estruturaswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\usandocontinue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\usandocontinue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\usandobreak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\usandobreak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\estruturaforeach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\estruturaforeach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\estruturafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\estruturafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\estruturadowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\estruturadowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\estruturawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\estruturawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\estruturaswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\estruturasdecontrole\\estruturaswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\estruturasdecontrole\\estruturaifelseif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,7 +64,7 @@
               "RelativeDocumentMoniker": "CursoDeCSharp\\Program.cs",
               "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\Program.cs",
               "RelativeToolTip": "CursoDeCSharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCQAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T12:44:32.59Z",
               "IsPinned": true,
@@ -49,19 +73,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsandoContinue.cs",
+              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\UsandoContinue.cs",
+              "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\UsandoContinue.cs",
+              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\UsandoContinue.cs",
+              "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\UsandoContinue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:12:51.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsandoBreak.cs",
+              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\UsandoBreak.cs",
+              "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\UsandoBreak.cs",
+              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\UsandoBreak.cs",
+              "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\UsandoBreak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:03:12.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstruturaForEach.cs",
+              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaForEach.cs",
+              "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaForEach.cs",
+              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaForEach.cs",
+              "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaForEach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:46:04.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstruturaFor.cs",
+              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaFor.cs",
+              "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaFor.cs",
+              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaFor.cs",
+              "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaFor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:27:53.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstruturaDoWhile.cs",
+              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaDoWhile.cs",
+              "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaDoWhile.cs",
+              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaDoWhile.cs",
+              "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaDoWhile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:05:38.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstruturaWhile.cs",
+              "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaWhile.cs",
+              "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaWhile.cs",
+              "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaWhile.cs",
+              "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaWhile.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:16:39.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "EstruturaSwitch.cs",
               "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaSwitch.cs",
               "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaSwitch.cs",
               "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaSwitch.cs",
               "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaSwitch.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T18:48:17.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "EstruturaIfElseIf.cs",
               "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElseIf.cs",
               "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElseIf.cs",
@@ -69,12 +171,11 @@
               "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElseIf.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T18:22:56.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T18:22:56.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "EstruturaIfElse.cs",
               "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElse.cs",
               "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElse.cs",
@@ -82,12 +183,11 @@
               "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIfElse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T17:32:30.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T17:32:30.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "EstruturaIf.cs",
               "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\EstruturasDeControle\\EstruturaIf.cs",
               "RelativeDocumentMoniker": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIf.cs",
@@ -95,8 +195,7 @@
               "RelativeToolTip": "CursoDeCSharp\\EstruturasDeControle\\EstruturaIf.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:30:24.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T13:30:24.328Z"
             }
           ]
         }
