@@ -35,8 +35,7 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T12:44:32.59Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -46,10 +45,9 @@
               "RelativeDocumentMoniker": "CursoDeCSharp\\ClassesEMetodos\\Pessoa.cs",
               "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\ClassesEMetodos\\Pessoa.cs",
               "RelativeToolTip": "CursoDeCSharp\\ClassesEMetodos\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T12:45:10.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T12:45:10.789Z"
             },
             {
               "$type": "Document",
@@ -59,7 +57,7 @@
               "RelativeDocumentMoniker": "CursoDeCSharp\\ClassesEMetodos\\Membros.cs",
               "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\ClassesEMetodos\\Membros.cs",
               "RelativeToolTip": "CursoDeCSharp\\ClassesEMetodos\\Membros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T12:41:20.625Z",
               "EditorCaption": ""

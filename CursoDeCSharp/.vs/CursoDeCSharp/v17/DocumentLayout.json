@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\classesemetodos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\classesemetodos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\classesemetodos\\membros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\classesemetodos\\membros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\classesemetodos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|solutionrelative:cursodecsharp\\classesemetodos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA84777F-F015-49B6-8669-1D99A0B07D07}|CursoDeCSharp\\CursoDeCSharp.csproj|c:\\users\\sidim41\\documents\\meusprojetos\\curso-de-csharp\\cursodecsharp\\cursodecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -35,31 +35,29 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T12:44:32.59Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\ClassesEMetodos\\Pessoa.cs",
               "RelativeDocumentMoniker": "CursoDeCSharp\\ClassesEMetodos\\Pessoa.cs",
               "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\ClassesEMetodos\\Pessoa.cs",
               "RelativeToolTip": "CursoDeCSharp\\ClassesEMetodos\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T12:45:10.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T12:45:10.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Membros.cs",
               "DocumentMoniker": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\ClassesEMetodos\\Membros.cs",
               "RelativeDocumentMoniker": "CursoDeCSharp\\ClassesEMetodos\\Membros.cs",
               "ToolTip": "C:\\Users\\SIDIM41\\Documents\\MeusProjetos\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp\\ClassesEMetodos\\Membros.cs",
               "RelativeToolTip": "CursoDeCSharp\\ClassesEMetodos\\Membros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T12:41:20.625Z",
               "EditorCaption": ""
